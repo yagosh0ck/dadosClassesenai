@@ -1,11 +1,11 @@
 # 📘 Projeto: Coleta e Análise de Dados com Python (SENAI)
 
-Este projeto foi desenvolvido durante o curso de Python com foco em Data Science no SENAI. O objetivo foi coletar, organizar e analisar dados dos alunos da turma utilizando Google Colab, Google Sheets e a biblioteca pandas.
+Este projeto foi desenvolvido durante o curso de Python com foco em Data Science no SENAI. O objetivo foi coletar, organizar e analisar dados dos alunos da turma utilizando Google Colab, Excel e a biblioteca pandas.
 
 ## 🎯 Objetivos
 
 - Criar um formulário com perguntas pessoais para os colegas
-- Coletar as respostas em um arquivo estruturado (CSV)
+- Coletar as respostas em um arquivo estruturado (Excel)
 - Ler, visualizar e tratar os dados usando pandas
 - Realizar análises básicas com gráficos
 
@@ -15,7 +15,7 @@ Este projeto foi desenvolvido durante o curso de Python com foco em Data Science
 - Google Colab
 - pandas
 - matplotlib
-- Google Sheets
+- Exel
 
 ## 📊 Estrutura dos Dados
 
